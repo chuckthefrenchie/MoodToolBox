@@ -5,3 +5,6 @@ MoodToolBox is an application where you can click one of 18 different emojis cor
 The application uses Carousel to display the emojis, and opens a new page for display of the GIFS and quote.  The GIFs can be paused and restarted with a click.
 Behind the scenes, the application is making two API calls, one from Giphy and one from They Said So.  
 The page can be reset, if the user has a change in mood!
+
+
+https://chuckthefrenchie.github.io/MoodToolBox/
